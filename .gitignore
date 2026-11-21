@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# Outputs
+results/
+demo_outputs/
+*.log
+
+# Editors / OS / tools
+.vscode/
+.idea/
+.claude/
+.DS_Store
